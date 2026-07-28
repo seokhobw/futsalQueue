@@ -1,16 +1,17 @@
-# proj_k
+## 📖 Overview
 
-A new Flutter project.
+Futsal Queue는 아마추어 풋살 경기에서
+참가자 등록부터 팀 구성, 경기 순서 관리까지
+보다 쉽고 공정하게 운영할 수 있도록 개발한 모바일 애플리케이션입니다.
 
-## Getting Started
+기존에는 운영자가 직접 종이에 적거나
+메신저를 이용해 순서를 관리해야 했지만,
 
-This project is a starting point for a Flutter application.
+Futsal Queue는
 
-A few resources to get you started if this is your first Flutter project:
+- 참가자 등록
+- 자동 팀 편성
+- 경기 순서 관리
+- 경기 기록
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+등을 하나의 앱에서 제공합니다.
